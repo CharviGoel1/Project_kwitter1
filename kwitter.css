@@ -1,0 +1,39 @@
+img {
+	height: 60px;
+}
+
+h1 {
+	color: snow;
+	font-family:sans-serif;
+}
+
+html{
+	background-color: orange;
+}
+
+div{
+	background-color: gainsboro;
+}
+
+h2{
+	font-family: Helvetica;
+}
+
+h3{
+    font-family: 'Fruktur', cursive;
+	font-size: 30px;
+}
+
+button{
+	background-color: darkorange;
+	height: 50px;
+	width: 100px;
+	font-size: 30px;
+	color: snow;
+}
+
+input{
+	height: 50px;
+	width: 300px;
+	font-size: 30px;
+}
